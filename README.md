@@ -12,7 +12,7 @@
 - :computer: Playing CTF's at spare time.
 - :student: I’m currently learning `React.js` and `Machine Learning`.
 - :nerd_face: Always `learning and building new things`.
-- <br>
+-  <br>
 
 
 <p align="left">
