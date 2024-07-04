@@ -40,12 +40,7 @@ Here are some ideas to get you started:
 
 <!--profile visit count-->
 
-<div align="center">
 
-
-[![](https://visitcount.itsvg.in/api?id=sunilswain7&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
