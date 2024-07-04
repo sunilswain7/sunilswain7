@@ -7,7 +7,7 @@
 
 <br><br>
 
-- :school: I am a `Undergrad` at [Amrita Vishwa Vidyapeetham, Amritapuri.].
+- :school: I am an `Undergrad` at [Amrita Vishwa Vidyapeetham, Amritapuri.].
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Playing CTF's at spare time.
 - :student: I’m currently learning `React.js` and `Machine Learning`.
