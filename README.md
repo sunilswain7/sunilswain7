@@ -19,9 +19,11 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  ![sunilswain7's Stats](https://github-readme-stats.vercel.app/api?username=sunilswain7&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilswain7&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+
   <br></br>
-  ![sunilswain7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunilswain7&theme=chartreuse-dark&hide_border=true) 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilswain7&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+
 </td>
 
 
