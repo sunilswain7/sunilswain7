@@ -19,9 +19,9 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=sunilswain7&theme=dark&show_icons=true&count_private=true" />
+  ![sunilswain7's Stats](https://github-readme-stats.vercel.app/api?username=sunilswain7&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ElioChiu&theme=dark&hide_border=false" /> 
+  ![sunilswain7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunilswain7&theme=chartreuse-dark&hide_border=true) 
 </td>
 
 
