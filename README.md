@@ -8,7 +8,6 @@
 <br><br>
 
 - :school: I am an `Undergrad` at Amrita Vishwa Vidyapeetham, Amritapuri..
-- :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Playing CTF's at spare time.
 - :student: I’m currently learning `Next.js` and `AWS`.
 - :nerd_face: Always `learning and building new things`.
