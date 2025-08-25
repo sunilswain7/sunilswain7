@@ -9,7 +9,7 @@
 
 - :school: I am an `Undergrad` at Amrita Vishwa Vidyapeetham, Amritapuri..
 - :computer: Playing CTF's at spare time.
-- :student: I’m currently learning `Next.js` and `AWS`.
+- :student: I’m currently learning `Solidity`.
 - :nerd_face: Always `learning and building new things`.
 
 
