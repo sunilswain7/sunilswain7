@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Swain</h1>
-<h2 align="center">A passionate blockchain developer from India</h2>
+<h2 align="center">A passionate web3 developer from India</h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -9,7 +9,7 @@
 
 - :school: I am an `Undergrad` at Amrita Vishwa Vidyapeetham, Amritapuri..
 - :computer: Playing CTF's at spare time.
-- :student: I’m currently learning `Solidity`.
+- :student: I’m currently learning `Solidity` and `Foundry`.
 - :nerd_face: Always `learning and building new things`.
 
 
