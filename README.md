@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Swain</h1>
-<h2 align="center">A passionate web3 developer from India</h2>
+<h2 align="center">A passionate web3 developer</h2>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
